@@ -1,2 +1,3 @@
 This my file1 
 new content in file 1
+
