@@ -1,3 +1,4 @@
 This my file1 
 new content in file 1
 
+Testing git stash cmd
