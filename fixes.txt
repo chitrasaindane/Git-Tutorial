@@ -7,3 +7,5 @@ Another bug fixed.
 fourth bug fixed.
 
 Message for Darkmode
+
+another message for Darkmode
