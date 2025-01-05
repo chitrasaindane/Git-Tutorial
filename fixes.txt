@@ -5,3 +5,5 @@ New bug fixed.
 Another bug fixed.
 
 fourth bug fixed.
+
+Message for Darkmode
